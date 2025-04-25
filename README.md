@@ -1,5 +1,7 @@
 # Tic Tac Toe Game
 
+View here --> [tic tac toe](https://arsha2207.github.io/Tic-Tac-Toe/)
+
 A simple, interactive web-based Tic Tac Toe game built using HTML, CSS, and JavaScript. The game allows two players to take turns and play Tic Tac Toe on a 3x3 grid.
 
 ## Features
