@@ -2,21 +2,6 @@
     padding: 0;
     margin: 0;
 }
-nav{
-    color: white;
-    background-color: black;
-    height: 30px;
-    justify-content: center;
-    display: flex;
-    position: relative;
-    z-index: 5;
-    flex-direction: column;
-    font-size: 18px;
-    font-family:"Arial Black";
-}
-nav ul{
-    list-style-type: none;
-}
 .gamecontainer{
     display: flex;
     align-items: center;
@@ -225,9 +210,6 @@ img{
 }
 
 @media (max-width: 600px) {
-    nav{
-        display:none;
-    }
     .container{
         display: grid;
         grid-template-columns: repeat(3,18vw);
@@ -256,9 +238,6 @@ img{
     }
 }
 @media (max-width: 360px) {
-    nav{
-        display:none;
-    }
     .container{
         display: grid;
         grid-template-columns: repeat(3,20vw);
